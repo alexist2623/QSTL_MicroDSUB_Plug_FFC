@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND Pin=J2-SH1
+Added Pin To Net: NetName=GND Pin=J2-SH2
+Added Member To Class: ClassName=QSTL_MicroDSUB_Plug_FFC Member=Component J2 Micro DSUB RA
